@@ -15,5 +15,6 @@
 
 <!-- Optional dependencies
   <project name="Feinzer/android_packages_apps_Snap"            path="packages/apps/Snap"      remote="github" revision="pie" />
+  <project name="LineageOS/android_packages_resources_devicesettings"   path="packages/resources/devicesettings"      remote="github" revision="lineage-16.0" />
 -->
 </manifest>
