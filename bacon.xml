@@ -11,13 +11,13 @@
             remote="github" revision="croquette-release" />
 
 <!-- Vendor -->
-  <project  name="TheMuppets/proprietary_vendor_oneplus"
-            path="vendor/oneplus"
-            remote="github" revision="lineage-17.1" />
+  <project  name="Feiner/vendor_oneplus_bacon"
+            path="vendor/oneplus/bacon"
+            remote="github" revision="croquette-release" />
 
-  <project  name="TheMuppets/proprietary_vendor_oppo"
-            path="vendor/oppo"
-            remote="github" revision="lineage-17.0" />
+  <project  name="Feinzer/vendor_oppo_msm8974-common"
+            path="vendor/oppo/msm8974-common"
+            remote="github" revision="croquette-release" />
 
 <!-- Kernel -->
   <project  name="Feinzer/android_kernel_oneplus_msm8974"
